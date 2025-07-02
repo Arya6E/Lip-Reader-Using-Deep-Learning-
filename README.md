@@ -67,5 +67,6 @@ The **Lip Reader** project is built using Python and TensorFlow. It processes vi
 
 ---
 
+![Screenshot 2025-07-02 135850](https://github.com/user-attachments/assets/9ed993e7-0e60-4ca9-ad31-849f6eb4d5aa)
 
 
